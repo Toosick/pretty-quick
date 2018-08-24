@@ -1,5 +1,7 @@
 # `pretty-quick`
 
+Trigger
+
 [![Travis](https://img.shields.io/travis/azz/pretty-quick.svg?style=flat-square)](https://travis-ci.org/azz/pretty-quick)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![npm](https://img.shields.io/npm/v/pretty-quick.svg?style=flat-square)](https://npmjs.org/pretty-quick)
